@@ -77,7 +77,7 @@ Find on Telegram - [THE LIBRARIAN'S](telegram.dog/technosecuritybot)
 
 <p align="center">
 
-   <a href = "https://heroku.com/deploy?template=https://github.com/Mr-PerfectPURUSHOTTAM/THE-LIBRARIAN-MANAGER-BOT/tree/master"><img src="https://telegra.ph/file/eb784f6f13ddc0efd2508.png" alt="Press to Takeoff" width="220px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/Mr-PerfectPURUSHOTTAM/NEW-LIBRARIAN-V2/tree/master"><img src="https://telegra.ph/file/eb784f6f13ddc0efd2508.png" alt="Press to Takeoff" width="220px"></a>
 
 </p>
 
