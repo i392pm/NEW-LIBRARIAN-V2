@@ -38,7 +38,7 @@
 
 <p align="center">
 
-   <a href = "https://chat.whatsapp.com/DxVrb8CS5KOHSNfzB7t8WY"><img src="https://telegra.ph/file/70972e89dcc7736555889.jpg0%92-01-26" alt="Press to Takeoff" width="240px"></a>
+   <a href = "https://chat.whatsapp.com/DxVrb8CS5KOHSNfzB7t8WY"><img src="https://telegra.ph/file/70972e89dcc7736555889.jpg0%92-01-26" alt="https://telegra.ph/file/70972e89dcc7736555889.jpg0%92-01-26" width="240px"></a>
 
 </p>
 
