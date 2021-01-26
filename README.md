@@ -73,24 +73,3 @@ Find on Telegram - [THE LIBRARIAN'S](telegram.dog/technosecuritybot)
 
 <a href="https://t.me/librarian_institute"><img src="https://camo.githubusercontent.com/e531cdc1dbdcb78f8ffe767875a6b6d33c43e2e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2d54656c656772616d2532304368616e6e656c2d7265642e7376673f6c6f676f3d54656c656772616d" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a><span id="goog_140558409"></span><a href="https://www.blogger.com/"></a><span id="goog_140558410"></span>&nbsp;<a href="https://t.me/channel_librarian"><img src="https://camo.githubusercontent.com/7b0a8bb8af0b2466dd1c38a6c1367ddee45ba266/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2d54656c656772616d25323047726f75702d626c75652e7376673f6c6f676f3d74656c656772616d" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 
-* Deploy your Own With Heroku just click on deploy image😉:
-
-<p align="center">
-
-   <a href = "https://heroku.com/deploy?template=https://github.com/Mr-PerfectPURUSHOTTAM/NEW-LIBRARIAN-V2/tree/master"><img src="https://telegra.ph/file/eb784f6f13ddc0efd2508.png" alt="Press to Takeoff" width="220px"></a>
-
-</p>
-
-<br /></div>
-
-<div align="center" style="box-sizing: border-box;">
-
-</div>
-
-<div style="box-sizing: border-box;">
-
-<a href="https://www.python.org/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #FFFF8800; text-decoration-line: none;"><img alt="forthebadge made-with-python" src="https://camo.githubusercontent.com/5392ad6fb7875a2520001270f08309896b6cb25d/687474703a2f2f466f7254686542616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 150%;" /></a></div>
-
-<div style="box-sizing: border-box;">
-
-<h3 style="text-align: left;">
